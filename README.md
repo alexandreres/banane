@@ -1,2 +1,2 @@
 # banane
-une banane jaune
+des bananes jaunes
